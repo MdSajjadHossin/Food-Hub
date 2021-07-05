@@ -22,8 +22,8 @@ h1{
     padding: 2%;
 }
 .half-width img{
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 70%;
 }
 .top-pera{
     color: #828282;
@@ -36,5 +36,34 @@ h1{
     font-weight: 700;
     color: white;
     border-radius: 30px;
-
+}
+.middle-part{
+    background-image: url(./img/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#middle-left-img{
+    width: 100%;
+    height: 94%;
+    object-fit: contain;
+    object-position: bottom-left;
+}
+#about-me{
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
+.middle-h1{
+    color: #707070;
+}
+.middle-pera{
+    color: #18191F;
+    padding-bottom: 80px;
+}
+.contact-me-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    font-weight: 700;
+    color: white;
+    border-radius: 30px;
 }
