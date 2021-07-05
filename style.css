@@ -1,0 +1,40 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.span-color{
+    color: blue;
+}
+.fud-hub-span{
+    color: orangered;
+}
+.flaxible-contain{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 100px; 
+    padding: 2%;
+}
+.half-width img{
+    width: 50%;
+    height: 50%;
+}
+.top-pera{
+    color: #828282;
+    padding-bottom: 2%;
+}
+.order-food-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    font-weight: 700;
+    color: white;
+    border-radius: 30px;
+
+}
