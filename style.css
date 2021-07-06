@@ -1,6 +1,7 @@
 body{
     font-family: 'Manrope', sans-serif;
     margin: 0;
+    overflow-x: hidden;
 }
 h1{
     font-size: 50px;
@@ -187,7 +188,6 @@ footer{
     transition: 0.3s;
 }
 footer p{
-    padding-bottom:0;
     color: honeydew;
 }
 footer span{
